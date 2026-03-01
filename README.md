@@ -5,4 +5,5 @@ Prop Risk Calculator is a desktop risk management application designed for trade
 The application uses equity-delta based profit and loss tracking to ensure compliance with prop firm constraints, preventing rule violations before trade execution. It includes multi-asset support (BTC, ETH, SOL, XRP, XAUUSD, EURUSD, USDJPY), persistent state management across sessions, automated daily reset tracking, and real-time progress toward profit targets.
 
 Built with Python and Tkinter, this project focuses on risk control, capital preservation, and rule-based execution rather than signal prediction — providing traders with a structured framework to operate within strict funded account parameters.
+
 LINK - https://propriskcalculator.streamlit.app/
